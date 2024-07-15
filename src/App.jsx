@@ -20,7 +20,7 @@ const App = () => (
       <Services />
     </section>
     <section className="padding">
-      <SpecialOffers />
+    <SpecialOffers />
     </section>
     <section className="bg-pale-blue padding">
       <CustomerReviews />
